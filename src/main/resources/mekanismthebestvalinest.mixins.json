@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "XiGyoku.mekanismthebestvalinest.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "mekanismthebestvalinest.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

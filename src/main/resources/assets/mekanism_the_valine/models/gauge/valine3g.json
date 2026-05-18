@@ -1,0 +1,5 @@
+{
+  "type": "mekanism/gas",
+  "gauge_shader": "mekanismthebestvalinest:valine_white_shader_type",
+  "bar_shader": "mekanismthebestvalinest:valine_white_shader_type"
+}
