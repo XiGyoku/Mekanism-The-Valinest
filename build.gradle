@@ -200,7 +200,7 @@ dependencies {
     implementation fg.deobf("curse.maven:slashblade-resharped-1022428:7363505")
     implementation fg.deobf("curse.maven:mekanism-generators-268566:6552914")
     implementation fg.deobf("curse.maven:mekanism-the-valine-1544556:8097269")
-    implementation fg.deobf(files("libs/mekanism_animation_injector-0.5-SNAPSHOT-deobf.jar"))
+    implementation fg.deobf("curse.maven:mekanism-animation-injector-1544593:8107669")
 }
 
 // This block of code expands all declared replace properties in the specified resource targets.
